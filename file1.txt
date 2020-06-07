@@ -1,1 +1,2 @@
 This is file1 text file
+file1 is in user registration feature
